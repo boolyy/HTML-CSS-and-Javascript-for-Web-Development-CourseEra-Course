@@ -1,0 +1,18 @@
+/*Create Media Queries */
+
+/*This is for when the width of the browser is 992 px and above */
+@media (min-width: 992px) {
+	h1{
+		color: red;
+	}
+}
+
+/*This is for when browswer is between 768 px and 991 px*/
+@media (min-width: 768) and (max-width: 991px) {
+
+} 
+
+/*This is for when the browswer width is less than 767 pixels */
+@media (max-width: 767) {
+	
+}
